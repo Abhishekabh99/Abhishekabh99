@@ -1,10 +1,7 @@
 ![full-stack-diagram](https://user-images.githubusercontent.com/88980729/188525272-aaccc0cc-dfd3-43fd-8796-443b1bb2970a.png)
 
-
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-![coder](https://user-images.githubusercontent.com/88980729/188524906-8b2f9a9a-902a-4ccb-a496-bc6e5e569eac.png)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekabh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekabh" /> </p>
 
