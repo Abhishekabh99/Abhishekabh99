@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhicornell" target="blank"><img src="https://img.shields.io/twitter/follow/abhicornell?logo=twitter&style=for-the-badge" alt="abhicornell" /></a> </p>
 
-- 🔭 I’m currently working on **Blogging Website**
+- 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **Nest JS, Ruby on rails**
+- 🌱 I’m currently learning **Node JS**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
